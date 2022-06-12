@@ -139,4 +139,10 @@ html {
   html {
     font-size: 55%;
   }
+.list {
+margin : 1rem;
+padding : 1rem;
+}
+
+
 }
